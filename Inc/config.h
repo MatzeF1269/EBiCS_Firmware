@@ -42,8 +42,8 @@
 #define RAMP_END 1600
 #define THROTTLE_OFFSET 900
 #define THROTTLE_MAX 2800
-#define WHEEL_CIRCUMFERENCE 2200
-#define GEAR_RATIO 11 //dummy for testing
+#define WHEEL_CIRCUMFERENCE 1900
+#define GEAR_RATIO 50 //dummy for testing
 #define SPEEDLIMIT 25
 #define PULSES_PER_REVOLUTION 1
 #define PH_CURRENT_MAX 600
